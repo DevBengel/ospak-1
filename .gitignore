@@ -1,0 +1,6 @@
+.env
+classdb.json
+test.py
+.env copy
+ETConf
+__pycache__
